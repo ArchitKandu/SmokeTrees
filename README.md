@@ -47,7 +47,7 @@ A simple web application that allows users to input their name and address, whic
 
 ```bash
 git clone https://github.com/ArchitKandu/SmokeTrees.git
-cd smokestree
+cd smoketrees
 ```
 
 #### 2. Install Backend Dependencies:
