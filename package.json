@@ -1,0 +1,15 @@
+{
+  "name": "smokestree",
+  "version": "1.0.0",
+  "description": "Simple form for user and Address storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Archit Kandu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArchitKandu/SmokesTree/issues"
+  },
+  "homepage": "https://github.com/ArchitKandu/SmokesTree#readme"
+}
