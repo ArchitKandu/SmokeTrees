@@ -1,1 +1,6 @@
+# Removing all node_modules files from repository
 /node_modules
+
+#Removing .env files for security
+*.env
+
