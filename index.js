@@ -16,6 +16,6 @@ app.get("/", (req, res) => {
 app.use("/user", userRoutes);
 
 const server = app.listen(
-  process.env.PORT,
-  console.log(`Server started at Port ${process.env.PORT} !!`)
+  5000,
+  console.log(`Server started at Port 5000!`)
 );
